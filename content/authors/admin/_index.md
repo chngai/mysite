@@ -14,7 +14,7 @@ social:
     link: chngai@iu.edu
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     icon: linkedin
     link: https://hk.linkedin.com/in/chun-hau-yutak-ngai-67b448a9
   - icon: align-justify
