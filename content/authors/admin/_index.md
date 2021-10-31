@@ -1,7 +1,7 @@
 ---
 title: Ngai Chun Hau, Yutaka (魏溍孝)
 role: Graduate Student
-avatar_filename: ""
+avatar_filename: chun-hau-ngai2.jpg
 bio: My research interests include speech production, planning scope and
   orthographic effect in Chinese
 interests:
