@@ -5,9 +5,9 @@ avatar_filename: chun-hau-ngai2.jpg
 bio: My research interests include speech production, planning scope and
   orthographic effect in Chinese
 interests:
-  - Speech
-  - PlanningScope
+  - Production
   - Orthography
+  - Chinese
 social:
   - icon: envelope
     icon_pack: fas
