@@ -33,8 +33,8 @@ education:
       course: M.A, Linguistics
     - institution: " University of California, Santa Cruz"
       course: B.S, Cognitive Science with Honors
-email: chngai@iu.edu
-superuser: true
+email: ""
+superuser: false
 status:
   icon: ☕️
 ---
