@@ -25,14 +25,14 @@ organizations:
     url: ""
 education:
   courses:
+    - course: Ph.D, Chinese Language and Literature
+      institution: Indiana University, Bloomington
+      year: ""
     - institution: University of Hong Kong
       year: ""
       course: M.A, Linguistics
     - institution: " University of California, Santa Cruz"
       course: B.S, Cognitive Science with Honors
-    - course: Ph.D, Chinese Language and Literature
-      institution: Indiana University, Bloomington
-      year: ""
 email: chngai@iu.edu
 superuser: true
 status:
