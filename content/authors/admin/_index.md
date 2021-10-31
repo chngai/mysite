@@ -21,7 +21,7 @@ social:
     icon_pack: far
     link: https://docs.google.com/presentation/d/1X-uOJVFzBmXpC_q4M4TdkRx2aUuDlEFiloF2HMeM0Xo/edit?usp=sharing
 organizations:
-  - name: 腾讯
+  - name: Indiana University, Bloomington
     url: ""
 superuser: true
 status:
