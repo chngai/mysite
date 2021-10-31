@@ -1,6 +1,6 @@
 ---
 title: Handy Resources
-date: 2021-10-30T01:22:29.652Z
+date: 2021-10-31T01:31:27.730Z
 summary: >-
   # Handy Websites of Professors
 
