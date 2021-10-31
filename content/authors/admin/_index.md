@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     icon: linkedin
     link: https://hk.linkedin.com/in/chun-hau-yutak-ngai-67b448a9
-  - icon: align-right
+  - icon: outdent
     icon_pack: ai
     link: https://docs.google.com/presentation/d/1X-uOJVFzBmXpC_q4M4TdkRx2aUuDlEFiloF2HMeM0Xo/edit?usp=sharing
 organizations:
