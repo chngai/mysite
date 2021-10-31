@@ -18,7 +18,7 @@ social:
     icon: linkedin
     link: https://hk.linkedin.com/in/chun-hau-yutak-ngai-67b448a9
   - icon: align-justify
-    icon_pack: fab
+    icon_pack: far
     link: https://docs.google.com/presentation/d/1X-uOJVFzBmXpC_q4M4TdkRx2aUuDlEFiloF2HMeM0Xo/edit?usp=sharing
 organizations:
   - name: Indiana University, Bloomington
