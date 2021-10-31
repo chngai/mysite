@@ -23,6 +23,13 @@ social:
 organizations:
   - name: Indiana University, Bloomington
     url: ""
+education:
+  courses:
+    - institution: University of Hong Kong
+      year: ""
+      course: M.A, Linguistics
+    - institution: " University of California, Santa Cruz"
+      course: B.S, Cognitive Science with Honors
 superuser: true
 status:
   icon: ☕️
