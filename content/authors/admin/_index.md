@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: chngai@iu.edu
+    link: email:chngai@iu.edu
   - icon: address-card
     icon_pack: far
     link: https://docs.google.com/presentation/d/1X-uOJVFzBmXpC_q4M4TdkRx2aUuDlEFiloF2HMeM0Xo/edit?usp=sharing
