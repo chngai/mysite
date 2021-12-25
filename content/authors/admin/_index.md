@@ -12,14 +12,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: chngai@iu.edu
-  - display:
-      header: false
-    icon_pack: fab
-    icon: linkedin
-    link: https://hk.linkedin.com/in/chun-hau-yutak-ngai-67b448a9
-  - icon: outdent
+  - icon: address-card
     icon_pack: far
     link: https://docs.google.com/presentation/d/1X-uOJVFzBmXpC_q4M4TdkRx2aUuDlEFiloF2HMeM0Xo/edit?usp=sharing
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/chunhaungai/
+    icon_pack: fab
+    icon: linkedin
+    label: link-in
 organizations:
   - name: Indiana University, Bloomington
     url: ""
